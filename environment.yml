@@ -5,4 +5,3 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - variable_inspector
