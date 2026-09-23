@@ -5,4 +5,4 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
-  - lckr_jupyterlab_variableinspector
+  
